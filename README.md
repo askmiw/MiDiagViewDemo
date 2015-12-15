@@ -1,8 +1,8 @@
 # MiDiagViewDemo
 iOS Swift 弹出框工程样例
-1、可以自定义显示位置
-2、可以定义关闭按钮位置
-3、对键盘弹出与关闭进行监控
+1. 可以自定义显示位置
+2. 可以定义关闭按钮位置
+3. 对键盘弹出与关闭进行监控
 
 # 安装
 拖动 MiDiagView.swift进工程即可
@@ -23,3 +23,4 @@ iOS Swift 弹出框工程样例
             d.close()   //关闭
         }
         d.show(v)       //显示
+        //d.show(v,pos: (h:.Center,v:.Center)) 自定义位置显示
