@@ -15,7 +15,7 @@ enum MiDialogPOSH {
 enum MiDialogPOSV {
     case Default,Center,Top,Bottom
 }
-var _____keyBoardframe : CGRect?
+var _____keyBoardframe : CGRect?    //全局记录键盘位置
 class MiDialogView: UIView {
     
     init(){
