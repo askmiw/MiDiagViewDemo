@@ -3,7 +3,9 @@
 第一次学着在gitHub上分享自己的成果，望大家指教。
 
 # 效果图
-
+![](https://github.com/askmiw/MiDiagViewDemo/blob/master/1.png)
+![](https://github.com/askmiw/MiDiagViewDemo/blob/master/2.png)
+![](https://github.com/askmiw/MiDiagViewDemo/blob/master/3.png)
 
 # 基本功能
 iOS Swift 弹出框工程样例
