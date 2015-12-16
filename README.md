@@ -6,7 +6,7 @@ iOS Swift 弹出框工程样例
 
 # 安装
 拖动 MiDiagView.swift进工程即可
-#最简单的应用
+#基本使用方法
 //显示一个已经生成好的v:UIView
 
         let d = MiDialogView()
@@ -14,7 +14,7 @@ iOS Swift 弹出框工程样例
         
 显示后在非v所占有区域单击即可关闭显示
 
-# 复杂使用
+# 使用自定义视图
 
         let nib = NSBundle.mainBundle().loadNibNamed("View", owner: nil, options: nil)
         let v = nib[0] as! MiDateSelectView                     //自定义复杂View
